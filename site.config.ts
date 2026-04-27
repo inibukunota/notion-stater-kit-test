@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: '326eae615f27803993ca000ce1246ac4',
+  rootNotionSpaceId: 'a48eae615f27837ea25f013972f59834',
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
